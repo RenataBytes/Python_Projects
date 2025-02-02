@@ -61,13 +61,11 @@ To develop and run these projects, ensure you have the following installed:
 ➡️Jupyter Notebook for testing and prototyping Python code
 
 
+<br>
+<h2 id="contact">📬 Contact</h2>
+<p>
+📉 Passionate about data science and coding? Me too!<br><br>
+🟣 Let's make something great together. Email me at <a href="mailto:renatadalmeidas@gmail.com">renatadalmeidas@gmail.com</a><br><br>
+🟣 Connect with me on <a href="https://www.linkedin.com/in/renata-d-almeida/">LinkedIn</a> for more updates on my projects and professional endeavors
+</p>
 
-
-
-
-
-            📉Passionate about data science and coding? Me too! 
-
-              🟣Let’s make something great together. Email me at renatadalmeidas@gmail.com
-
-                    🟣Connect with me on LinkedIn for more updates on my projects and professional endeavors: (https://www.linkedin.com/in/renata-d-almeida/)
